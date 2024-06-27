@@ -1,0 +1,17 @@
+1. Make a branch
+    git branch == to see avilable branches
+    git checkout == to switch the branch
+    git checkout -b ＜new-branch＞ == to make new branch
+    ＜new-branch＞ex == Feature/Function-that..
+
+2. push the branch
+    git push --set-upstream origin <your branch name>
+
+3. Commit and push
+    commit massges can be same as branch name
+
+4. pull regust
+    this will be done in the github itself
+
+5. return to the master
+    git checkout master
