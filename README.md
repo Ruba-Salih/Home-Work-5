@@ -1,5 +1,5 @@
 
-![logo](images.png)
+https://github.com/hima890/sorting_algorithms/raw/main/images.png
 
 # Sorting Algorithms
 
